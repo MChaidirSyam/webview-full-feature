@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jago858</string>
+    <string name="version_android">Versi Aplikasi 1.0.0</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+    <string name="choose_upload">Choose file for upload</string>
+    <string name="image_chooser">File Chooser</string>
+
+    <string name="slide_1_title">Marketplace Produk Digital Indonesia</string>
+    <string name="slide_1_desc">Ribuan Produk Digital Di Satu Tempat Dengan Rating Terbaik</string>
+
+    <string name="slide_2_title">Layanan Bantuan</string>
+    <string name="slide_2_desc">Kami Selalu Siap Membantu Jika Anda Membutuhkan Kami Dalam Penggunaan Layanan Kami.</string>
+
+    <string name="slide_3_title">Produk Terbaik</string>
+    <string name="slide_3_desc">Kami Menyediakan Berbagai Produk Digital Terbaik</string>
+
+    <string name="slide_4_title">Aman &amp; Terpercaya</string>
+    <string name="slide_4_desc">Kami Selalu Memastikan Setiap Transaksi Secara Aman Dan Terpecaya</string>
+
+
+</resources>
